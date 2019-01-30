@@ -28,4 +28,4 @@ class array1
 		if(no==10)
 		System.out.print("-1");
 	}
-}
+}	
